@@ -1,6 +1,5 @@
 # STOCK_MARKET_PRICE_PREDICTION_PROJECT
-
-![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/b5054043-ca7b-42e7-88e1-a06c74274e54)
+![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/1e24e8fd-d2e6-492d-97f6-74e2a9ccccd4)
 
 ## Project Overview
 Investment firms, hedge funds and even individuals have been using financial models to understand market behaviour better and make profitable investments and trades. A wealth of information is available in the form of historical stock prices and company performance data, suitable for machine learning algorithms to process.
@@ -14,9 +13,7 @@ Webscraped https://in.finance.yahoo.com using selenium and BeautifulSoup.
 
 ## Exploratory Data Analysis
 ### Closing Price v/s Time
-![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/90eeb55b-9b13-45ae-8e98-c20b305bc767)
-
-
+![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/b5054043-ca7b-42e7-88e1-a06c74274e54)
 
 We can see from the above graph that Telsa shares have tremendous growth in the 2020-2021 period.
 If we follow the news, it can be due to
@@ -27,7 +24,8 @@ Starting production in China
 For the rest of the Companies, we can see that COVID-19 is the primary factor affecting the 2020-2021 period.
 
 ### Histogram plot of Percentage Daily Return
-![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/1e24e8fd-d2e6-492d-97f6-74e2a9ccccd4)
+![image](https://github.com/HopeToLearn/STOCK_MARKET_PRICE_PREDICTION_PROJECT/assets/115106831/90eeb55b-9b13-45ae-8e98-c20b305bc767)
+
 
 
 
