@@ -62,12 +62,13 @@ The input data’s shape to the network’s input layer is (5, 1), indicating th
 
 ## Results
 
-ARIMA Model (RMSE)	Deep Learning Model (RMSE)
-Apple	6.40	4.82
-Tesla	108.11	66.40
-Google	210.40	115.66
-Microsoft	7.26	6.23
-Amazon	113.18	87.48
+| |ARIMA Model (RMSE)|	Deep Learning Model (RMSE)|
+|---|----------------|----------------------------|
+|Apple|	6.40	|4.82|
+|Tesla|	108.11|	66.40|
+|Google	|210.40|	115.66|
+|Microsoft	|7.26|	6.23|
+|Amazon	|113.18	|87.48|
 ## References
 Mehtab, S. (2020, September 20). Stock Price Prediction Using Machine Learning and LSTM-Based Deep Learning Models. ArXiv.Org. https://arxiv.org/abs/2009.10819
 Chauhan, N. S. (2020, January). Stock Market Forecasting Using Time Series Analysis. KDnuggets. https://www.kdnuggets.com/2020/01/stock-market-forecasting-time-series-analysis.html
